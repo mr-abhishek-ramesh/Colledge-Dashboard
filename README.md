@@ -56,7 +56,7 @@ The app pre-creates a default *Admin* account for initial setup and full access.
 - *Password*: admin008
 - *Role*: author (full privileges)
 - *Department*: ALL (cross-department access)
-- <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/48c21175-1753-40ba-a245-272d03b1ae94" />
+- <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/062a8ad5-0c35-407b-8c28-7df3ca591354" />
 
 *Steps to Use as Admin*:
 1. Login with credentials above.
