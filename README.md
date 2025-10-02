@@ -56,6 +56,7 @@ The app pre-creates a default *Admin* account for initial setup and full access.
 - *Password*: admin008
 - *Role*: author (full privileges)
 - *Department*: ALL (cross-department access)
+- *Monitoring*: All (user login-logout time,changes)
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/062a8ad5-0c35-407b-8c28-7df3ca591354" />
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/66fe13db-1221-415b-b2c5-739eb219419e" />
@@ -66,6 +67,7 @@ The app pre-creates a default *Admin* account for initial setup and full access.
 3. *Register Staff*: Staff can self-register after departments exist (select dept, strong PW).
  <img width="1622" height="982" alt="Image" src="https://github.com/user-attachments/assets/20752b01-b161-4ef9-b70c-8e72a5ed6573" />
 4. *Manage Students*: Add/update globally; view all analytics/audits.
+<img width="1617" height="978" alt="Image" src="https://github.com/user-attachments/assets/b3ab397a-87cb-4f34-8783-0fa948d61a03" />
 5. *Handle Deletions*: In "Admin Audit" > "Deletion Requests", review/approve/reject staff proposals.
 6. *Logout*: Click ⏻ (top-right)—auto-logs session time.
 
