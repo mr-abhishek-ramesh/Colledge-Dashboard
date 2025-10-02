@@ -6,7 +6,7 @@
 
 A secure, user-friendly Streamlit-based web dashboard designed for college staff to efficiently manage departments, students, and academic data. With built-in role-based access, real-time analytics, and comprehensive auditing, it streamlines administrative tasks while ensuring data integrity and compliance.
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ff683822-57d7-4e1d-ab16-c859a98025ad" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0a9c092e-86d5-4466-8944-aa438b2d17e4" />
 
 ## 🌟 Advantages
 This dashboard stands out for its simplicity, security, and scalability, making it ideal for educational institutions of any size. Key benefits include:
@@ -72,7 +72,11 @@ The app pre-creates a default *Admin* account for initial setup and full access.
 | Role   | Login ID | Password  | Department | Access Level |
 |--------|----------|-----------|------------|--------------|
 | Admin  | admin    | admin008  | ALL        | Full (change ASAP) |
-| Staff  | (e.g., staff123) | (Strong PW) | (e.g., CSE101) | Dept-only |
+| Staff  | STAFFECE001 | (#Staffece001) | (e.g., ECE001) | Dept-only |
+| Staff  | STAFFCSE002 | (#Staffcse002) | (e.g., CSE002) | Dept-only |
+| Staff  | STAFFBME003 | (#Staffbme003) | (e.g., BME003) | Dept-only |
+| Staff  | STAFFIT004 | (#Staffit004) | (e.g., IT004) | Dept-only |
+| Staff  | STAFFMECH005 | (#Staffmech005) | (e.g., MECH005) | Dept-only |
 
 *Register New User*: From login screen > "Register" > Enter ID, strong PW, select dept. Auto-assigns staff role.
 
